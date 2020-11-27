@@ -46,34 +46,34 @@ const siteMetadata = {
         },
         {
             name: "GitHub",
-            url: "https://github.com/akzhy/gatsby-starter-elemental",
+            url: "https://github.com/kiyohken2000/elemental",
         },
     ],
     social: [
         {
             name: "Facebook",
             icon: "/images/Facebook.svg",
-            url: "#",
+            url: "https://www.facebook.com/",
         },
         {
             name: "Twitter",
             icon: "/images/Twitter.svg",
-            url: "#",
+            url: "https://twitter.com/votepurchase",
         },
         {
             name: "Instagram",
             icon: "/images/Instagram.svg",
-            url: "#",
+            url: "https://www.instagram.com/?hl=ja",
         },
         {
             name: "Youtube",
             icon: "/images/Youtube.svg",
-            url: "#",
+            url: "https://www.youtube.com/?gl=JP&hl=ja",
         },
     ],
     contact: {
         // leave empty ('') or false to hide form
-        api_url: "https://getform.io/f/f227a36e-096a-4c6a-9963-9f1918a85bb3",
+        api_url: "https://getform.io/f/e12f6957-5f0d-4490-8cc7-ac47a2a659dc",
         description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
         mail: "hi@akzhy.com",
         phone: "000-000-0000",
